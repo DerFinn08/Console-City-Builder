@@ -4,4 +4,4 @@ As a replacement for the missing tutorial / guide in game:
 
 - Every citizen of your settlement will consume 3 Food units per cycle.
 - Every farmer will generate 25 Food units per cycle.
-- Every logger will generate 5 wood units per cycle.
+- Every logger will generate 1 wood unit per cycle.
